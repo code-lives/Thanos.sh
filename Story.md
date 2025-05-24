@@ -22,6 +22,14 @@ I was frozen, as I perceived it, for about ten years. Eventually, I started to p
 
 _P.S._ "Some hundreds of thousands CNY" could buy a big apartment in Beijing or 200~300 ounces of gold in that year. 
 
+## 差点代码没有了
+
+Author: code-lives 948870149@qq.com
+
+当时入职一家公司，当时接手的项目，非常的nice，上线就是ftp直接覆盖～😂，刚接手没什么时间优化，有一次ssh连接测试和正式环境，需要去`rm`缓存日志，`rm -rf *`，嗯 没毛病～。继续输入`ls`，error..... 什么👻，啥命令也不对了。一看上面命令行，刺激啊，在根目录执行的😂。瞬间头皮发麻，完啦！要倒霉了！立即访问正式项目！咦，能访问。一看ssh操上面的连接是测试环境，立马舒了口气！马不停蹄的把测试环境初始化、安装环境、部署代码。
+
+当时上面注册了几千个律师，投入了500W。。。。。。。
+
 
 
 ## PR your story here 
